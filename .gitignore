@@ -1,0 +1,10 @@
+# Data Files
+*.jpg
+*.png
+*.MOV
+*.txt
+*.pdf
+
+# Annotation Files
+*.json
+*.yaml
