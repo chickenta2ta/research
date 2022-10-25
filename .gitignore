@@ -8,3 +8,7 @@
 # Annotation Files
 *.json
 *.yaml
+
+# Weights Files
+*.pt
+*.pth
