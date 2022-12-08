@@ -12,3 +12,6 @@
 # Weights Files
 *.pt
 *.pth
+
+# System Files for Mac
+.DS_Store
