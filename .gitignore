@@ -15,3 +15,6 @@
 
 # System Files for Mac
 .DS_Store
+
+# Google Sheets
+*.gsheet
